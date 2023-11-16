@@ -1,2 +1,2 @@
-# Java_Maven_GitHubActions
-Java and Maven GitHubActions test
+# java_maven_project
+This is simple java maven project for github actions
